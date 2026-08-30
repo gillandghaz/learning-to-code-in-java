@@ -7,8 +7,9 @@ public class LoopTest2{
         System.out.print("Masukkan angka: ");
         int angka = input.nextInt();
 
-        for (int i = 1; i <=10; i++){
+        for (int i = 1; i <= 10; i++){
         System.out.println(angka * i);
+        //i disini berfungsi sebagai variabel dalam loop saja
         }
     }
 }
