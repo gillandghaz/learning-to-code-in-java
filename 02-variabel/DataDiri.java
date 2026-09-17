@@ -1,5 +1,6 @@
 public class DataDiri {
     public static void main(String[] args) {
+
         String nama = "Ayam";
         int UMUR = 30;
         Double pi = 3.14;

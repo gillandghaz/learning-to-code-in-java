@@ -7,7 +7,7 @@ public class LatihanInput{
         String nama = p.nextLine();
 
         System.out.print("Berapa Umurmu?");
-        int umur = x.nextInt();
+        int umur = p.nextInt();
 
         System.out.println("Halo, " + nama + "!");
         System.out.println("Umur: " + umur);
