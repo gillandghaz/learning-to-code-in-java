@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class switchCase1 {
+public class SwitchCase1 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

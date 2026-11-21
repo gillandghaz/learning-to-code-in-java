@@ -1,4 +1,4 @@
-public class printf1 {
+public class Printf1 {
     public static void main(String[] args) {
 
         //printf = print format

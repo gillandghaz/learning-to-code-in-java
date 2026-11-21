@@ -1,4 +1,4 @@
-public class ternaryOperator1 {
+public class TernaryOperator1 {
     public static void main() {
 
         // ternary operator ? = Return 1 of 2 if a condition is true

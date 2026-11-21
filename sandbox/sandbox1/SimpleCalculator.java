@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class simpleCalculator {
+public class SimpleCalculator {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-public class mathClass1 {
+public class MathClass1 {
     public static void main(String[] args) {
 
         System.out.println(Math.PI);

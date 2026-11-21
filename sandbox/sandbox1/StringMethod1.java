@@ -1,4 +1,4 @@
-public class stringMethod1 {
+public class StringMethod1 {
     public static void main(String[] args) {
 
         String name = "Latihan Name Method";

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class scanner1 {
+public class Scanner1 {
     public static void main(String[] args) {
 
         //Common mistake in Scanner
